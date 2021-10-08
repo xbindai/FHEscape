@@ -1,0 +1,6 @@
+framework module FHEscape {
+  umbrella header "FHEscape-umbrella.h"
+
+  export *
+  module * { export * }
+}

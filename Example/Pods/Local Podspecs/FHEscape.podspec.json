@@ -1,0 +1,22 @@
+{
+  "name": "FHEscape",
+  "version": "0.0.1",
+  "summary": "FHEscape.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xbindai/FHEscape",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xbindai": "456789"
+  },
+  "source": {
+    "git": "https://github.com/xbindai/FHEscape.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FHEscape/Classes/**/*"
+}

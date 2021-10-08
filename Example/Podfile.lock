@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - FHEscape (0.0.1)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - FHEscape (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  FHEscape:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  FHEscape: 0ddfa9398024557128ec8b4b7f61095c3c7d5e1c
+
+PODFILE CHECKSUM: 8af2270d2a139bd64dbd728c046d2183ce445f16
+
+COCOAPODS: 1.11.2
